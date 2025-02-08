@@ -41,10 +41,10 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Multipurpose Calculator</title>
+    <title>PHP Multipurpose Calculator Project</title>
 </head>
 <body>
-    <h2>Multipurpose Calculator</h2>
+    <h2>PHP Multipurpose Calculator Project</h2>
     <form method="post">
         <label>Number 1:</label>
         <input type="number" name="num1" step="any" required><br>
